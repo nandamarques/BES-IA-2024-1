@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
+idea/
 *.iml
 out/
 !**/src/main/**/out/
