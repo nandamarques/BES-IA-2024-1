@@ -1,0 +1,5 @@
+# Ignorar pasta de configurações do IntelliJ IDEA
+.idea/
+
+# Ignorar pasta out
+out/
