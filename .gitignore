@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
+.idea
+*.iml
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
@@ -27,3 +30,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+=======
+# Ignorar arquivo de configuração do projeto Eclipse
+.project
+
+# Ignorar pasta de configurações do IntelliJ IDEA
+.idea/
+
+# Ignorar arquivos de saída compilados
+.out/
+>>>>>>> b943e0f9692b3ad84a372044c43b2f9e7e4d4126
