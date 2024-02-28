@@ -1,0 +1,17 @@
+
+{
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬–˜üþÿÿÿÿ8÷¹‰…ß1
+:
+java:S2386"Make this member "protected".(´…þ©8 Â‰…ß1
+F	java:S106"+Replace this use of System.out by a logger.(¡ó¯i8ÌÂ‰…ß1
+G	java:S106"+Replace this use of System.out by a logger.(È‚ûƒ8ÎÂ‰…ß1
+O
+java:S6126"2Replace this String concatenation with Text block.(È‚ûƒ8ÏÂ‰…ß1
+G	java:S106+"+Replace this use of System.out by a logger.(úÓÜ»8ÚÂ‰…ß1
+L	java:S106."+Replace this use of System.out by a logger.(¤ì²ïøÿÿÿÿ8ÝÂ‰…ß1
+L	java:S1064"+Replace this use of System.out by a logger.(÷·í¡ùÿÿÿÿ8àÂ‰…ß1
+L	java:S1067"+Replace this use of System.out by a logger.(ôÈÏ˜üÿÿÿÿ8âÂ‰…ß1
+L	java:S106J"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ŒÃ‰…ß1
+L	java:S106M"+Replace this use of System.out by a logger.(å»ûýûÿÿÿÿ8ŽÃ‰…ß1
+G	java:S106P"+Replace this use of System.out by a logger.(î°§„8‘Ã‰…ß1
+L	java:S106S"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8’Ã‰…ß1
